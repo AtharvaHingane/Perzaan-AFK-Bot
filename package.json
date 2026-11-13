@@ -15,4 +15,7 @@
     "mineflayer": "^4.34.0",
     "mineflayer-pathfinder": "^2.1.1"
   }
+   "devDependencies": {
+    "wrangler": "^4.161.0"
+  }
 }
